@@ -1,3 +1,5 @@
 dog
 cat
 duck
+elephant
+alligator
